@@ -1003,7 +1003,7 @@ TARGET_DEVICES += xiaomi_miwifi-r3
 
 define Device/youku_yk1
   SOC := mt7620a
-  IMAGE_SIZE := 32448k
+  IMAGE_SIZE := 15782k
   DEVICE_VENDOR := YOUKU
   DEVICE_MODEL := YK1
   DEVICE_PACKAGES := kmod-usb2 kmod-usb-ohci kmod-sdhci-mt7620 \
